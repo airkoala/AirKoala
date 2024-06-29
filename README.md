@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AIRKOALA-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord logo" />
+  <a href="#"><img src="https://img.shields.io/badge/AIRKOALA-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord logo" /></a>
   <a href="https://www.linkedin.com/in/sadmantariq/"><img src="https://img.shields.io/static/v1?message=Sadman Tariq&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
   <a href="https://www.instagram.com/sadmantariq_/"><img src="https://img.shields.io/static/v1?message=sadmantariq_&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
   <a href="https://twitter.com/sadmantariq"><img src="https://img.shields.io/static/v1?message=SadmanTariq&logo=X&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" /></a>
