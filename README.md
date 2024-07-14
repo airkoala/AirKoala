@@ -13,8 +13,8 @@
 
 <div align="center">
   <img height="195" src="./logo_195_rounded.png"  />
-  <img height="195" src="http://github-readme-streak-stats.herokuapp.com?user=sadmantariq&theme=gruvbox" alt="GitHub Streak" />
+  <img height="195" src="http://github-readme-streak-stats.herokuapp.com?user=sadmantariq&theme=dark" alt="GitHub Streak" />
   <br />
-  <img height="195" src="https://github-readme-stats-iota-eight-84.vercel.app/api?username=sadmantariq&show_icons=true&theme=gruvbox&hide_rank=true&show_icons=true&include_all_commits=true&hide=contribs" />
-  <img height="195" src="https://github-readme-stats-iota-eight-84.vercel.app/api/top-langs/?hide=cython,css&username=sadmantariq&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&layout=compact&theme=gruvbox" />
+  <img height="195" src="https://github-readme-stats-iota-eight-84.vercel.app/api?username=sadmantariq&show_icons=true&theme=dark&hide_rank=true&show_icons=true&include_all_commits=true&hide=contribs" />
+  <img height="195" src="https://github-readme-stats-iota-eight-84.vercel.app/api/top-langs/?hide=cython,css&username=sadmantariq&size_weight=0.5&count_weight=0.9&exclude_repo=github-readme-stats&layout=compact&theme=dark" />
 </div>
