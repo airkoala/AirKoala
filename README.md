@@ -5,7 +5,7 @@
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/AIRKOALA-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord logo" /></a>
   <a href="https://www.instagram.com/airkoala_/"><img src="https://img.shields.io/static/v1?message=airkoala_&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-  <a href="https://twitter.com/sadmantariq"><img src="https://img.shields.io/static/v1?message=SadmanTariq&logo=X&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" /></a>
+  <a href="https://twitter.com/AirKoala_"><img src="https://img.shields.io/static/v1?message=AirKoala_&logo=X&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" /></a>
 </div>
 
 ###
