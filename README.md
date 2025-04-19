@@ -1,4 +1,5 @@
-<h1 align="center">👋Hi there, I'm AirKoala.</h1>
+<h1 align="center">Hi !</h1>
+<h1 align="center">Go read my <a href="https://airkoala.lol">blog</a> !</h1>
 
 ###
 
