@@ -16,5 +16,5 @@
   <img height="195" src="http://github-readme-streak-stats.herokuapp.com?user=airkoala&theme=dark" alt="GitHub Streak" />
   <br />
   <img height="195" src="https://github-readme-stats-iota-eight-84.vercel.app/api?username=airkoala&show_icons=true&theme=dark&hide_rank=true&show_icons=true&include_all_commits=true&hide=contribs" />
-  <img height="195" src="https://github-readme-stats-iota-eight-84.vercel.app/api/top-langs/?hide=cython,css&username=airkoala&size_weight=0.5&count_weight=0.9&exclude_repo=github-readme-stats&layout=compact&theme=dark" />
+  <img height="195" src="https://github-readme-stats-iota-eight-84.vercel.app/api/top-langs/?hide=html,css,Jupyter+Notebook&username=airkoala&size_weight=0.5&count_weight=0.9&exclude_repo=github-readme-stats&layout=compact&theme=dark" />
 </div>
